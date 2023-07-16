@@ -1,5 +1,9 @@
 package com.itheima.git.gittest.controller;
 
 public class indexController {
-    System.out.pritln("1312");
+    public static void main(String[] args) {
+        System.out.println("1`312");
+        System.out.println("1312");
+    }
+
 }
